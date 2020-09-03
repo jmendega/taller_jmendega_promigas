@@ -1,2 +1,3 @@
 chacon, s and straub, b. pro Git. Apress
 Loeliger, j. and Mccullough, m. version control git. O reilly.
+Ryan Hodson. Rys Git
