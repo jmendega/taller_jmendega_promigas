@@ -1,1 +1,2 @@
 chacon, s and straub, b. pro Git. Apress
+Ryan Hodson. Rys Git
